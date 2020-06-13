@@ -7,4 +7,60 @@ h1 {color: #E6D8D7;
     margin-left: 20px;
     font-size:72px;
     font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+h3 {color: #E6D8D7;
+    margin-left: 20px;
+    font-size:22px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+h4 {color: #E6D8D7;
+    margin-left: 20px;
+    font-size:15px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+td {
+    text-align: left;
+}
+
+th {
+    text-align: right;
+}
+
+
+
+.openhours{
+    background: #888894;
+    margin: auto;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #e6d8d7;
+}
+
+.map{
+    background: #888894;
+    width: 900px;
+    height: 490px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #e6d8d7;
+
+
+}
+
+a {
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #0000FF;
 }
